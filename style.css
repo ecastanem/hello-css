@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+    font-size: 80px;
+}
+
+h3.barbacoa, h3.pastor {
+    color: purple;
+}
+
+p {
+    color: green;
+}
+
+img {
+    width: 250px;
+}
